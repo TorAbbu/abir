@@ -1,7 +1,7 @@
 print(logo)
 
 		
-		os.system("clear")
+		
 
 		print(logo)
 
@@ -21,7 +21,7 @@ print(logo)
 
 		print ("")
 
-		print (" Your Key : "+ak+ahsan+key1)
+		
 
 		print ("")
 
@@ -29,7 +29,7 @@ print(logo)
 
 		print ("")
 
-		input(" Press Enter To Send Key")
+	
 
 		time.sleep(3.5)
 
