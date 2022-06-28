@@ -3,7 +3,7 @@ print(logo)
 		
 		
 
-		print(logo)
+		
 
 		print ("")
 
